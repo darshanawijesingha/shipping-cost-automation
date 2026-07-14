@@ -5,12 +5,7 @@ A Flask-based web application that processes **CUSDEC (C.pdf)** and **Working Sh
 
 ## 📸 Application Screenshot
 
-
-<p align="center">
-  <img src="Screenshot%202026-07-14%20105648.png" alt="Application Screenshot" width="900">
-</p>
-
-
+![Application Screenshot](images/Screenshot%202026-07-14%20105648.png)
 
 ---
 
