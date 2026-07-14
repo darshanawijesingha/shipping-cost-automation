@@ -2,7 +2,11 @@
 
 A Flask-based web application that processes **CUSDEC (C.pdf)** and **Working Sheet (W.pdf)** PDF files to generate a consolidated Excel report containing customs duty calculations, tax rates, and working sheet information.
 
+
+## 📸 Application Screenshot
+
 Screenshot%202026-07-14%20105648.png
+
 
 ---
 
